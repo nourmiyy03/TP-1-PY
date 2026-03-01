@@ -1,4 +1,4 @@
-TP – Analyseur de Notes
+**TP – Analyseur de Notes
 
 Module : Back-end Python
 Année universitaire : 2025/2026
@@ -22,3 +22,4 @@ Le calcul des moyennes (avec une fonction récursive)
 La détection de certaines anomalies
 
 Le projet a été réalisé en utilisant uniquement les structures de données.
+
